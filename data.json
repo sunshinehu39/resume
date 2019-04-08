@@ -1,0 +1,211 @@
+{
+  "works": [
+    {
+      "id": 1,
+      "type": "求职",
+      "name": "我的简历",
+      "tips": "Vue2 Cube-UI…",
+      "days": "3天",
+      "image": "http://dosjh.club/static/api/images/resume/0.png",
+      "skills": [
+        "Vue2",
+        "Cube-UI"
+      ],
+      "photos": [
+        {
+          "image": "http://dosjh.club/static/api/images/resume/1.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/resume/2.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/resume/3.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/resume/4.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/resume/5.png"
+        }
+      ],
+      "url": "http://dosjh.club/resume",
+      "github": "https://github.com/sunshinehu39"
+    },
+    {
+      "id": 2,
+      "type": "购物",
+      "name": "仿饿了么",
+      "tips": "Vue2 Cube-UI…",
+      "days": "16天",
+      "image": "http://dosjh.club/static/api/images/e/0.png",
+      "skills": [
+        "Vue2",
+        "Cube-UI"
+      ],
+      "photos": [
+        {
+          "image": "http://dosjh.club/static/api/images/e/1.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/e/2.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/e/3.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/e/4.png"
+        }
+      ],
+      "url": "http://47.110.46.239:8900/",
+      "github": "https://github.com/sunshinehu39"
+    },
+    {
+      "id": 3,
+      "type": "婚恋",
+      "name": "知否",
+      "tips": "animate.css photoClip.js …",
+      "days": "11天",
+      "image": "http://dosjh.club/static/api/images/zf/0.png",
+      "skills": [
+        "Javascript",
+        "ClipboardJS",
+        "photoClip.js",
+        "animation.css"
+      ],
+      "photos": [
+        {
+          "image": "http://dosjh.club/static/api/images/zf/1.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/zf/2.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/zf/3.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/zf/4.png"
+        }
+      ],
+      "url": "http://dosjh.club/love",
+      "github": "https://github.com/sunshinehu39"
+    },
+    {
+      "id": 4,
+      "type": "官网",
+      "name": "四叶草学习社群",
+      "tips": "Magnify.js …",
+      "days": "6天",
+      "image": "http://dosjh.club/static/api/images/syc/0.png",
+      "skills": [
+        "Magnify.js",
+        "ClipboardJS",
+        "photoClip.js",
+        "WangEditor",
+        "DjangoUeditor",
+        "Django2",
+        "Xadmin"
+      ],
+      "photos": [
+        {
+          "image": "http://dosjh.club/static/api/images/syc/1.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/syc/2.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/syc/3.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/syc/4.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/syc/5.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/syc/6.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/syc/7.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/syc/8.png"
+        }
+      ],
+      "des": "在Python3.6.4的开发环境中，使用最新的Django 2.0.2 框架，自动生成强大的Xadmin管理后台，便捷实现社群活动的富文本展示（ListView + DjangoUeditor）、社群学习资料的共享（Video.js + Authentication用户认证设置，动态设置Permission、Authentication + Magnify.js图片浏览插件 + JS拉伸动画 + 百度一键分享插件）、收藏、标记、转载（ClipboardJS一键复制到剪贴板）、评论（AJAX + WangEditor）和社群会员详情资料的修改、展示、成长记录和互动管理( photoClip.js头像上传裁剪 + 访问页面回跳 + 多表联合反向查询 + 自定义Form表单前后端验证 + EmailBackend给用户发邮件自动生成新密码 )。\n \n 独立完成网站前端页面设计和后端业务开发，通过与客户社群耐心沟通需求、阅读官方文档，解决了随性别变色的聊天气泡设计（CSS+Django自定义标签）、图片点亮红心收藏、头像圆形裁剪、金句一键复制、全站高效检索、会员身份识别、会员分类排序等问题，顺利将项目部署到了腾讯云并投入使用。",
+      "url": "http://dosjh.club/syc",
+      "github": "https://github.com/sunshinehu39"
+    },
+    {
+      "id": 5,
+      "type": "教育",
+      "name": "楚小月书法",
+      "tips": "微信小程序 WeUI…",
+      "days": "10天",
+      "image": "http://dosjh.club/static/api/images/cxy/0.png",
+      "skills": [
+        "WEUI",
+        "Django REST framework"
+      ],
+      "photos": [
+        {
+          "image": "http://dosjh.club/static/api/images/cxy/1.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/cxy/2.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/cxy/3.png"
+        }
+      ],
+      "url": "微信小程序",
+      "github": "https://github.com/sunshinehu39"
+    },
+    {
+      "id": 6,
+      "type": "工具",
+      "name": "极度认真系统",
+      "tips": "JEUI…",
+      "days": "14天",
+      "image": "http://dosjh.club/static/api/images/2019/0.png",
+      "skills": [
+        "JEUI",
+        "jQuery",
+        "WangEditor",
+        "Django2"
+      ],
+      "photos": [
+        {
+          "image": "http://dosjh.club/static/api/images/2019/1.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/2019/2.png"
+        }
+      ],
+      "url": "http://dosjh.club/2019",
+      "github": "https://github.com/sunshinehu39"
+    },
+    {
+      "id": 7,
+      "type": "学习",
+      "name": "英语俱乐部",
+      "tips": "JEUI…",
+      "days": "4天",
+      "image": "http://dosjh.club/static/api/images/English/0.png",
+      "skills": [
+        "JEUI",
+        "CSS3",
+        "Django2"
+      ],
+      "photos": [
+        {
+          "image": "http://dosjh.club/static/api/images/English/1.png"
+        },
+        {
+          "image": "http://dosjh.club/static/api/images/English/2.png"
+        }
+      ],
+      "url": "http://dosjh.club/dialogue",
+      "github": "https://github.com/sunshinehu39"
+    }
+  ]
+}
